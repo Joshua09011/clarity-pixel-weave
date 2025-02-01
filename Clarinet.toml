@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/pixel-weave.clar"
 depends_on = []
 
+[contracts.pixel-weave-marketplace]
+path = "contracts/pixel-weave-marketplace.clar"
+depends_on = []
+
 [repl]
 costs_version = 2
 parser_version = 2
